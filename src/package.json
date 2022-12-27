@@ -1,0 +1,9 @@
+{
+  "name": "uses",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "diff2html-cli": "^5.2.6"
+  }
+}
