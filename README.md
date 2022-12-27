@@ -2,8 +2,10 @@
 
 ## TODO
 - [ ] create we page (uses.snamiki1212.com)
-  - https://diff2html.xyz/
+  - https://github.com/rtfpessoa/diff2html
+  - https://github.com/otakustay/react-diff-view
   - https://github.com/benjamine/jsondiffpatch
+  - https://github.com/wickedest/Mergely
 - [ ] register https://uses.tech/
 
 
